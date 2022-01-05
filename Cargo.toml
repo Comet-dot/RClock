@@ -1,0 +1,13 @@
+[package]
+name = "RClock"
+version = "0.0.1"
+edition = "2021"
+
+description = "A simple clock written in rust"
+homepage = "https://github.com/Comet-dot/RClock"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = "0.4"
