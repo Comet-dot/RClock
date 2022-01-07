@@ -20,3 +20,6 @@ cargo build --release
 ╭**Color support**  
 ├**Customizable fonts**  
 ╰**Other minor things**
+
+P.S. 
+I made this program to practice code writing and for learning Rust, so, don't expect nothing special 
